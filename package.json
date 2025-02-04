@@ -11,5 +11,8 @@
     "url": "git+https://github.com/agoyal31/fragments.git"
   },
   "author": "Avni",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "prettier": "3.4.2"
+  }
 }
